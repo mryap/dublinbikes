@@ -1,0 +1,13 @@
+Package: dublinbikes
+Type: Package
+Title: Dublin Bikes Q1 2020 
+Version: 0.1.0
+Author: person("Shiao Shyan", "Yap", email = "mryap@pm.me",
+  role = c("aut", "cre"))
+Maintainer: Shiao Shyan Yap <mryap@pm.me>
+Description: dublinbikes is a bike sharing scheme in operation from bicycle 
+    docks and stations in Dublin City. Here the open data Q1 2020. Data 
+    provided by Derilinx.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
