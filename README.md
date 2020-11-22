@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of dublinbikes is to ...
+The goal of dublinbikes package is to provide R user access to quarterly rollups of historic bike data. Static data provides information like bike station position, number of bike stands, payment terminal availability. It is formatted to be convenient for data analysis with R.
 
 ## Installation
 
