@@ -8,25 +8,15 @@ The goal of dublinbikes is to ...
 
 ## Installation
 
-You can install the released version of dublinbikes from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("dublinbikes")
-```
-
-Alternatively, 
 ``` r
 install.packages("devtools")
-devtools::install_github("username/packagename")
+devtools::install_github("mryap/dublinbikes")
 ```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
+Once the package is installed, load the library every time to access it.
 
 ``` r
 library(dublinbikes)
-## basic example code
+dplyr::glimpse(dublinbikes)
 ```
 
 ## License

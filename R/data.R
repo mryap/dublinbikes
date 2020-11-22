@@ -1,0 +1,11 @@
+#' Dublin bikes 2020 Q1 usage data.
+#'
+#' Quarterly rollups of historic bike data.
+#' Static data provides information like bike station position, number of bike stands, payment terminal availability
+#' Formatted to be convenient for data analysis with R.
+#' @docType package
+#' @name dublinbikes
+#' @aliases dublinbikes dublinbikes-package
+#' @format A data frame with 2,228,278 rows (Observations) with 11 columns(variables)
+#' @source \url{https://data.smartdublin.ie}
+"dublinbikes"
