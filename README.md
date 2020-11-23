@@ -12,6 +12,7 @@ The goal of dublinbikes package is to provide R user access to quarterly rollups
 install.packages("devtools")
 devtools::install_github("mryap/dublinbikes")
 ```
+## Access the data package
 Once the package is installed, load the library every time to access it.
 
 ``` r
